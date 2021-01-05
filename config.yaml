@@ -7,9 +7,15 @@ keywords:
         robotics: 3
         physics: 3
         simulation: 3
+        autonomous: 3
         vision: 2
         recognition: 2
+        drive: 1
         control: 1
+        digital twin: 1
+        virtual reality: 1
+        augmented reality: 1
+        sensing: 1
         human: 1
         interaction: 2
         unity: 5
