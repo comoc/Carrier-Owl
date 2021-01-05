@@ -3,9 +3,17 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        robot: 3
+        robotics: 3
+        physics: 3
+        simulation: 3
+        vision: 2
+        recognition: 2
+        control: 1
+        human: 1
+        interaction: 2
+        unity: 5
+        unreal: 5
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 4
